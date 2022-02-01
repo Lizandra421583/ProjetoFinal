@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Funcionario
+comment1.params=nome\ funcao
+comment1.target=Funcionario(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=nome
+comment3.target=void\ setNome(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getFuncao()
+comment5.params=funcao
+comment5.target=void\ setFuncao(java.lang.String)
+numComments=6

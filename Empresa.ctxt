@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Empresa
+comment1.params=razaosocial\ cnpj\ endereco\ telefone
+comment1.target=Empresa(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getRazaosocial()
+comment3.params=razaosocial
+comment3.target=void\ setRazaosocial(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getCnpj()
+comment5.params=cnpj
+comment5.target=void\ setCnpj(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getEndereco()
+comment7.params=endereco
+comment7.target=void\ setEndereco(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getTelefone()
+comment9.params=telefone
+comment9.target=void\ setTelefone(java.lang.String)
+numComments=10
